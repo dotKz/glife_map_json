@@ -1,4 +1,197 @@
-[
+[   
+    {
+        "id": "66bd22f919fc975dc7fec844",
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [738.2977907152, 130.5503455856972],
+                [738.2977907152, 125.2876171739813],
+                [747.8073356998955, 124.6803792803217],
+                [748.1108318164282, 130.1455203232575],
+                [738.2977907152, 130.5503455856972]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "QG - Cayo #1",
+        "image": "https://i.goopics.net/5vnzav.png",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
+    },
+    
+    {
+        "id": "66bd231b08c549927e56fdc8",
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [748.0523160934678, 130.056187014292],
+                [747.7381753621493, 124.9021939515233],
+                [755.1518966212644, 121.5081009589683],
+                [757.4137098867573, 118.051154392477],
+                [762.4399615878523, 120.6910044977976],
+                [760.7436016387327, 124.9650475254595],
+                [757.5393661792846, 127.7934583525887],
+                [751.3822078454432, 129.8676262924834],
+                [748.0523160934678, 130.056187014292]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "QG - Cayo #2",
+        "image": "https://i.goopics.net/k7cg2e.png",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
+    },
+    {
+        "id": "66bd234c08c549927e56fdca",
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [760.2004990037277, 119.3221398470875],
+                [761.3329349399696, 112.3313533573129],
+                [770.0885981543278, 112.8287215660716],
+                [770.7514874828596, 116.6418778332213],
+                [770.1162185430167, 119.8195080558461],
+                [768.6523379425088, 122.0576649952601],
+                [765.4759932432937, 122.5550332040188],
+                [762.078685434568, 122.4997700697123],
+                [762.5482320422781, 120.6208235032907],
+                [760.2004990037277, 119.3221398470875]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "QG - Cayo #3",
+        "image": "https://i.goopics.net/n5rfrj.png",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
+    },
+    {
+        "id": "66bd23a819fc975dc7fec847",
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [741.6541943563449, 101.8310421345657],
+                [745.5771790300428, 105.0151291563079],
+                [742.098305828839, 109.1618471381117],
+                [738.101302576392, 106.0518086517589],
+                [741.6541943563449, 101.8310421345657]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "QG - Cayo #4",
+        "image": "https://i.goopics.net/iirxec.png",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
+    },
+    {
+        "id": "66bd23d019fc975dc7fec848",
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [741.7637202587557, 101.840204352933],
+                [745.5864342205653, 104.9829139553014],
+                [749.2199049169386, 100.666421248434],
+                [747.0246830378798, 99.03827049058057],
+                [747.0625316909669, 98.31885503943603],
+                [746.1920126699608, 96.72856825269544],
+                [741.7637202587557, 101.840204352933]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "QG - Cayo #5",
+        "image": "https://i.goopics.net/xa34e3.png",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
+    },
+    {
+        "id": "66bd242908c549927e56fdcb",
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [750.1013403082571, 99.68484423465131],
+                [748.3130454503308, 98.15672416956569],
+                [746.8973120211392, 96.5913328833804],
+                [745.1835294489599, 94.0941610697039],
+                [747.9032278787228, 92.15605757252213],
+                [752.4112211664118, 97.7840119585692],
+                [750.1013403082571, 99.68484423465131]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "QG - Cayo #6",
+        "image": "https://i.goopics.net/38qoho.png",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
+    },
+    {
+        "id": "66c259ade740ed38d7f6b96f",
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [755.1407743264726, 113.792039542442],
+                [752.1623241557963, 113.0673927199717],
+                [751.4378368739993, 111.5375839900046],
+                [749.7473665498063, 110.1688054300903],
+                [748.217890942724, 109.2831247518229],
+                [747.976395182125, 106.4650562327123],
+                [748.7813835074103, 104.3716308503277],
+                [750.9548453528013, 105.1767927578244],
+                [753.6112987193903, 106.1429885211182],
+                [755.9457552818922, 107.8338311068823],
+                [759.0047064960568, 107.1897030551826],
+                [760.3731800161626, 108.7195117851497],
+                [755.9457552818922, 111.1350011933841],
+                [755.5265834664195, 113.9068897974449],
+                [755.1407743264726, 113.792039542442]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "QG - Cayo #7",
+        "image": "https://i.goopics.net/adb7k9.png",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
+    },
+    {
+        "id": "66c259cae740ed38d7f6b971",
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [748.861185841063, 104.3095308574869],
+                [749.642477387323, 102.3070288558775],
+                [748.6414473841185, 101.3790395781104],
+                [750.1063704304155, 99.7184285983928],
+                [752.4258311752873, 97.81360926679807],
+                [755.2824311155665, 100.426629912313],
+                [756.014892638715, 103.3815426976134],
+                [754.8673703308807, 105.1886782412998],
+                [753.6954318938431, 106.2143501890816],
+                [748.861185841063, 104.3095308574869]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "QG - Cayo #8",
+        "image": "https://i.goopics.net/taqiuq.png",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
+    },
+
+    
+    
+    
     {
         "id": "666ca33bfb25cb046943f825",
         "type": "Polygon",
@@ -23,7 +216,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #2",
+        "description": "QG - #1",
         "image": "https://i.goopics.net/h8h4wx.png",
         "blips": [],
         "fill": "#f94144",
@@ -145,7 +338,7 @@
         "coordinates": [[373.6772361843516, 804.1402244219773]],
         "radius": "10.986544542561546",
         "category": "4",
-        "description": "QG - #18 ",
+        "description": "QG - #6",
         "image": "https://i.goopics.net/nepau9.png",
         "blips": [],
         "fill": "#f94144",
@@ -218,7 +411,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #19",
+        "description": "QG - #9",
         "image": "https://i.goopics.net/2ewef9.png",
         "blips": [],
         "fill": "#f94144",
@@ -252,7 +445,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #20 ",
+        "description": "QG - #10",
         "image": "https://i.goopics.net/k1s1d2.png",
         "blips": [],
         "fill": "#f94144",
@@ -278,7 +471,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #21",
+        "description": "QG - #11",
         "image": "https://i.goopics.net/rvytyw.png",
         "blips": [],
         "fill": "#f94144",
@@ -312,7 +505,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #22",
+        "description": "QG - #12",
         "image": "https://i.goopics.net/eo3c9l.png",
         "blips": [],
         "fill": "#f94144",
@@ -339,7 +532,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #23",
+        "description": "QG - #13",
         "image": "https://i.goopics.net/msvlq6.png",
         "blips": [],
         "fill": "#f94144",
@@ -359,7 +552,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #24",
+        "description": "QG - #14",
         "image": "https://i.goopics.net/vbf7si.png",
         "blips": [],
         "fill": "#f94144",
@@ -381,7 +574,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #25",
+        "description": "QG - #15",
         "image": "https://i.goopics.net/k40ru3.png",
         "blips": [],
         "fill": "#f94144",
@@ -401,7 +594,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #26",
+        "description": "QG - #16",
         "image": "https://i.goopics.net/jdhswd.png",
         "blips": [],
         "fill": "#f94144",
@@ -421,7 +614,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #27",
+        "description": "QG - #17",
         "image": "https://i.goopics.net/rma6g1.png",
         "blips": [],
         "fill": "#f94144",
@@ -448,7 +641,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #28",
+        "description": "QG - #18",
         "image": "https://i.goopics.net/r7jedw.png",
         "blips": [],
         "fill": "#f94144",
@@ -474,7 +667,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #29",
+        "description": "QG - #19",
         "image": "https://i.goopics.net/l9l7uc.png",
         "blips": [],
         "fill": "#f94144",
@@ -501,7 +694,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #30",
+        "description": "QG - #20",
         "image": "https://i.goopics.net/m4e8ob.png",
         "blips": [],
         "fill": "#f94144",
@@ -523,7 +716,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #31",
+        "description": "QG - #21",
         "image": "https://i.goopics.net/1nzgff.png",
         "blips": [],
         "fill": "#f94144",
@@ -545,7 +738,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #32",
+        "description": "QG - #22",
         "image": "https://i.goopics.net/tl8fhr.png",
         "blips": [],
         "fill": "#f94144",
@@ -569,7 +762,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #33",
+        "description": "QG - #23",
         "image": "https://i.goopics.net/u5yoqh.png",
         "blips": [],
         "fill": "#f94144",
@@ -592,7 +785,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #14",
+        "description": "QG - #24",
         "image": "https://i.goopics.net/c53sbq.png",
         "blips": [],
         "fill": "#f94144",
@@ -615,7 +808,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #13",
+        "description": "QG - #25",
         "image": "https://i.goopics.net/sdiedp.png",
         "blips": [],
         "fill": "#f94144",
@@ -635,7 +828,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #11",
+        "description": "QG - #26",
         "image": "https://i.goopics.net/jekxeh.png",
         "blips": [],
         "fill": "#f94144",
@@ -658,7 +851,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #12",
+        "description": "QG - #27",
         "image": "https://i.goopics.net/nlvfvx.png",
         "blips": [],
         "fill": "#f94144",
@@ -680,7 +873,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #10",
+        "description": "QG - #28",
         "image": "https://i.goopics.net/5ajyug.png",
         "blips": [],
         "fill": "#f94144",
@@ -710,7 +903,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #9",
+        "description": "QG - #29",
         "image": "https://i.goopics.net/8y2h2j.png",
         "blips": [],
         "fill": "#f94144",
@@ -739,7 +932,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #6",
+        "description": "QG - #30",
         "image": "https://i.goopics.net/mj7utx.png",
         "blips": [],
         "fill": "#f94144",
@@ -762,7 +955,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #1",
+        "description": "QG - #31",
         "image": "https://i.goopics.net/i75s11.png",
         "blips": [],
         "fill": "#f94144",
@@ -787,7 +980,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #35",
+        "description": "QG - #32",
         "image": "https://i.goopics.net/thwo0v.png",
         "blips": [],
         "fill": "#f94144",
@@ -815,7 +1008,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #36",
+        "description": "QG - #33",
         "image": "https://i.goopics.net/31idlw.png",
         "blips": [],
         "fill": "#f94144",
@@ -838,7 +1031,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #39",
+        "description": "QG - #34",
         "image": "https://i.goopics.net/nqb6ho.png",
         "blips": [],
         "fill": "#f94144",
@@ -861,7 +1054,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #40",
+        "description": "QG - #35",
         "image": "https://i.goopics.net/120ovj.png",
         "blips": [],
         "fill": "#f94144",
@@ -891,7 +1084,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #41",
+        "description": "QG - #36",
         "image": "https://i.goopics.net/d47bnu.png",
         "blips": [],
         "fill": "#f94144",
@@ -921,7 +1114,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #42",
+        "description": "QG - #37",
         "image": "https://i.goopics.net/60aw68.png",
         "blips": [],
         "fill": "#f94144",
@@ -955,7 +1148,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #43",
+        "description": "QG - #38",
         "image": "https://i.goopics.net/amjm9p.png",
         "blips": [],
         "fill": "#f94144",
@@ -986,146 +1179,12 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #44",
+        "description": "QG - #39",
         "image": "https://i.goopics.net/6etpoe.png",
         "blips": [],
         "fill": "#f94144",
         "stroke": "#000000"
     },
-    {
-        "id": "66bd22f919fc975dc7fec844",
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [738.2977907152, 130.5503455856972],
-                [738.2977907152, 125.2876171739813],
-                [747.8073356998955, 124.6803792803217],
-                [748.1108318164282, 130.1455203232575],
-                [738.2977907152, 130.5503455856972]
-            ]
-        ],
-        "radius": "0",
-        "category": "4",
-        "description": "QG - Cayo #1",
-        "image": "https://i.goopics.net/5vnzav.png",
-        "blips": [],
-        "fill": "#f94144",
-        "stroke": "#000000"
-    },
-    {
-        "id": "66bd231b08c549927e56fdc8",
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [748.0523160934678, 130.056187014292],
-                [747.7381753621493, 124.9021939515233],
-                [755.1518966212644, 121.5081009589683],
-                [757.4137098867573, 118.051154392477],
-                [762.4399615878523, 120.6910044977976],
-                [760.7436016387327, 124.9650475254595],
-                [757.5393661792846, 127.7934583525887],
-                [751.3822078454432, 129.8676262924834],
-                [748.0523160934678, 130.056187014292]
-            ]
-        ],
-        "radius": "0",
-        "category": "4",
-        "description": "QG - Cayo #2",
-        "image": "https://i.goopics.net/k7cg2e.png",
-        "blips": [],
-        "fill": "#f94144",
-        "stroke": "#000000"
-    },
-    {
-        "id": "66bd234c08c549927e56fdca",
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [760.2004990037277, 119.3221398470875],
-                [761.3329349399696, 112.3313533573129],
-                [770.0885981543278, 112.8287215660716],
-                [770.7514874828596, 116.6418778332213],
-                [770.1162185430167, 119.8195080558461],
-                [768.6523379425088, 122.0576649952601],
-                [765.4759932432937, 122.5550332040188],
-                [762.078685434568, 122.4997700697123],
-                [762.5482320422781, 120.6208235032907],
-                [760.2004990037277, 119.3221398470875]
-            ]
-        ],
-        "radius": "0",
-        "category": "4",
-        "description": "QG - Cayo #3",
-        "image": "https://i.goopics.net/n5rfrj.png",
-        "blips": [],
-        "fill": "#f94144",
-        "stroke": "#000000"
-    },
-    {
-        "id": "66bd23a819fc975dc7fec847",
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [741.6541943563449, 101.8310421345657],
-                [745.5771790300428, 105.0151291563079],
-                [742.098305828839, 109.1618471381117],
-                [738.101302576392, 106.0518086517589],
-                [741.6541943563449, 101.8310421345657]
-            ]
-        ],
-        "radius": "0",
-        "category": "4",
-        "description": "QG - Cayo #4",
-        "image": "https://i.goopics.net/iirxec.png",
-        "blips": [],
-        "fill": "#f94144",
-        "stroke": "#000000"
-    },
-    {
-        "id": "66bd23d019fc975dc7fec848",
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [741.7637202587557, 101.840204352933],
-                [745.5864342205653, 104.9829139553014],
-                [749.2199049169386, 100.666421248434],
-                [747.0246830378798, 99.03827049058057],
-                [747.0625316909669, 98.31885503943603],
-                [746.1920126699608, 96.72856825269544],
-                [741.7637202587557, 101.840204352933]
-            ]
-        ],
-        "radius": "0",
-        "category": "4",
-        "description": "QG - Cayo #5",
-        "image": "https://i.goopics.net/xa34e3.png",
-        "blips": [],
-        "fill": "#f94144",
-        "stroke": "#000000"
-    },
-    {
-        "id": "66bd242908c549927e56fdcb",
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [750.1013403082571, 99.68484423465131],
-                [748.3130454503308, 98.15672416956569],
-                [746.8973120211392, 96.5913328833804],
-                [745.1835294489599, 94.0941610697039],
-                [747.9032278787228, 92.15605757252213],
-                [752.4112211664118, 97.7840119585692],
-                [750.1013403082571, 99.68484423465131]
-            ]
-        ],
-        "radius": "0",
-        "category": "4",
-        "description": "QG - Cayo #6",
-        "image": "https://i.goopics.net/38qoho.png",
-        "blips": [],
-        "fill": "#f94144",
-        "stroke": "#000000"
-    },
-
     {
         "id": "66bd289ca7f685ab9306edc7",
         "type": "Polygon",
@@ -1143,7 +1202,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #45",
+        "description": "QG - #40",
         "image": "https://i.goopics.net/iyi9me.png",
         "blips": [],
         "fill": "#f94144",
@@ -1167,7 +1226,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #46",
+        "description": "QG - #41",
         "image": "https://i.goopics.net/lnvzhe.png",
         "blips": [],
         "fill": "#f94144",
@@ -1190,7 +1249,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #47",
+        "description": "QG - #42",
         "image": "https://i.goopics.net/jlyndd.png",
         "blips": [],
         "fill": "#f94144",
@@ -1203,63 +1262,8 @@
         "coordinates": [[232.3802489227515, 1164.09129391907]],
         "radius": "3.206541041064071",
         "category": "4",
-        "description": "QG - #38",
+        "description": "QG - #43",
         "image": null,
-        "blips": [],
-        "fill": "#f94144",
-        "stroke": "#000000"
-    },
-    {
-        "id": "66c259ade740ed38d7f6b96f",
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [755.1407743264726, 113.792039542442],
-                [752.1623241557963, 113.0673927199717],
-                [751.4378368739993, 111.5375839900046],
-                [749.7473665498063, 110.1688054300903],
-                [748.217890942724, 109.2831247518229],
-                [747.976395182125, 106.4650562327123],
-                [748.7813835074103, 104.3716308503277],
-                [750.9548453528013, 105.1767927578244],
-                [753.6112987193903, 106.1429885211182],
-                [755.9457552818922, 107.8338311068823],
-                [759.0047064960568, 107.1897030551826],
-                [760.3731800161626, 108.7195117851497],
-                [755.9457552818922, 111.1350011933841],
-                [755.5265834664195, 113.9068897974449],
-                [755.1407743264726, 113.792039542442]
-            ]
-        ],
-        "radius": "0",
-        "category": "4",
-        "description": "QG - Cayo #6",
-        "image": "https://i.goopics.net/adb7k9.png",
-        "blips": [],
-        "fill": "#f94144",
-        "stroke": "#000000"
-    },
-    {
-        "id": "66c259cae740ed38d7f6b971",
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [748.861185841063, 104.3095308574869],
-                [749.642477387323, 102.3070288558775],
-                [748.6414473841185, 101.3790395781104],
-                [750.1063704304155, 99.7184285983928],
-                [752.4258311752873, 97.81360926679807],
-                [755.2824311155665, 100.426629912313],
-                [756.014892638715, 103.3815426976134],
-                [754.8673703308807, 105.1886782412998],
-                [753.6954318938431, 106.2143501890816],
-                [748.861185841063, 104.3095308574869]
-            ]
-        ],
-        "radius": "0",
-        "category": "4",
-        "description": "QG - Cayo #7",
-        "image": "https://i.goopics.net/taqiuq.png",
         "blips": [],
         "fill": "#f94144",
         "stroke": "#000000"
@@ -1283,7 +1287,7 @@
         ],
         "radius": "0",
         "category": "4",
-        "description": "QG - #15",
+        "description": "QG - #44",
         "image": "https://i.goopics.net/to9pjl.png",
         "blips": [],
         "fill": "#f94144",
@@ -1305,7 +1309,7 @@
         ],
         "radius": 0,
         "category": "4",
-        "description": "QG - X",
+        "description": "QG - 45",
         "image": null,
         "fill": "#f94144",
         "stroke": "#000000",
@@ -1314,14 +1318,14 @@
     },
     {
         "type": "Circle",
-        "coordinates": [336.4048679988015, 161.31709999277285],
-        "radius": 4.000979198572111,
+        "coordinates": [336.4915829069164, 161.34910024742038],
+        "radius": 3.747072613398018,
         "category": "4",
-        "description": "QG - X",
+        "description": "QG - 46",
         "image": null,
         "fill": "#f94144",
         "stroke": "#000000",
         "blips": [],
-        "id": "fc5a0325157b206d34ab69e6c7"
+        "id": "ab98f135a6556842ef48a383da"
     }
 ]
