@@ -1013,7 +1013,6 @@
         "fill": "#f94144",
         "stroke": "#000000"
     },
-
     {
         "id": "66bd1547a46f96a2a2335ccf",
         "type": "Polygon",
@@ -1041,7 +1040,6 @@
         "fill": "#f94144",
         "stroke": "#000000"
     },
-
     {
         "id": "66bd22f919fc975dc7fec844",
         "type": "Polygon",
@@ -1175,7 +1173,6 @@
         "fill": "#f94144",
         "stroke": "#000000"
     },
-
     {
         "id": "66bd289ca7f685ab9306edc7",
         "type": "Polygon",
@@ -1223,7 +1220,6 @@
         "fill": "#f94144",
         "stroke": "#000000"
     },
-
     {
         "id": "66bddf69a984d0050da2c6e7",
         "type": "Polygon",
@@ -1246,7 +1242,6 @@
         "fill": "#f94144",
         "stroke": "#000000"
     },
-
     {
         "id": "66bf5d28a4c1e6ce6ee09f12",
         "type": "Circle",
