@@ -17,7 +17,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd075798cda03f3a7aa1e8",
@@ -42,7 +42,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd077e98cda03f3a7aa1e9",
@@ -61,8 +61,8 @@
         "description": "Service Public - LSPD",
         "image": null,
         "blips": [],
-        "fill": "#ffffff",
-        "stroke": "#ffffff"
+        "fill": "#000000",
+        "stroke": "#000000"
     },
     {
         "id": "66bd07aa98cda03f3a7aa1ea",
@@ -90,7 +90,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd07d3d2dc1a627e977c84",
@@ -113,7 +113,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd080198cda03f3a7aa1eb",
@@ -140,7 +140,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0834d2dc1a627e977c85",
@@ -163,7 +163,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd085d98cda03f3a7aa1ec",
@@ -189,7 +189,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0889d2dc1a627e977c86",
@@ -212,7 +212,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd08b298cda03f3a7aa1ed",
@@ -234,7 +234,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd097e98cda03f3a7aa1ee",
@@ -259,7 +259,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd09b0d2dc1a627e977c87",
@@ -295,7 +295,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd09e198cda03f3a7aa1ef",
@@ -323,7 +323,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0a2298cda03f3a7aa1f0",
@@ -367,7 +367,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0a5a98cda03f3a7aa1f1",
@@ -387,7 +387,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0a79d2dc1a627e977c88",
@@ -407,7 +407,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0aa498cda03f3a7aa1f2",
@@ -431,7 +431,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0aced2dc1a627e977c89",
@@ -454,7 +454,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0af498cda03f3a7aa1f3",
@@ -474,7 +474,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0b16d2dc1a627e977c8a",
@@ -494,7 +494,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd0b4b98cda03f3a7aa1f4",
@@ -528,7 +528,7 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     },
     {
         "id": "66bd1ad12dcbf5f4fbd28fe9",
@@ -723,6 +723,6 @@
         "image": null,
         "blips": [],
         "fill": "#0068FF",
-        "stroke": "#ffffff"
+        "stroke": "#000000"
     }
 ]
