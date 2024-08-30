@@ -1309,7 +1309,7 @@
         ],
         "radius": 0,
         "category": "4",
-        "description": "QG - 45",
+        "description": "QG - #45",
         "image": null,
         "fill": "#f94144",
         "stroke": "#000000",
@@ -1321,11 +1321,31 @@
         "coordinates": [[336.4915829069164, 161.34910024742038]],
         "radius": 3.747072613398018,
         "category": "4",
-        "description": "QG - 46",
+        "description": "QG - #46",
         "image": null,
         "fill": "#f94144",
         "stroke": "#000000",
         "blips": [],
         "id": "ab98f135a6556842ef48a383da"
+    },
+    {
+        "id": "66bd1663a46f96a2a2335cd5",
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [438.4424655915893, 359.4278956845956],
+                [438.4074369567779, 365.0347455286377],
+                [433.8537144313012, 365.069788340163],
+                [433.8537144313012, 359.3928528730703],
+                [438.4424655915893, 359.4278956845956]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "QG - #47",
+        "image": "https://i.goopics.net/b033ve.png",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
     }
 ]
