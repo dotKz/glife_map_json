@@ -1,5 +1,14 @@
 [
     {
-        
+        "id": "0",
+        "type": "Circle",
+        "coordinates": [[0.0, 0.0]],
+        "radius": "0",
+        "category": "7",
+        "description": "GAH",
+        "image": "",
+        "blips": [],
+        "fill": "#f94144",
+        "stroke": "#000000"
     }
 ]
