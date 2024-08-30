@@ -1319,7 +1319,7 @@
     {
         "type": "Circle",
         "coordinates": [[336.4915829069164, 161.34910024742038]],
-        "radius": 3.747072613398018,
+        "radius": "3.747072613398018",
         "category": "4",
         "description": "QG - #46",
         "image": null,
@@ -1327,7 +1327,7 @@
         "stroke": "#000000",
         "blips": [],
         "id": "ab98f135a6556842ef48a383da"
-    },
+    },    
     {
         "id": "66bd1663a46f96a2a2335cd5",
         "type": "Polygon",
