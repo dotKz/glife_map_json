@@ -43,7 +43,7 @@
         "description": "Business - Diamond Casino",
         "image": "https://images.ctfassets.net/vyqo670uc2zh/6uMHhQPPa94KKN3W3ewXkg/f28ec464de849afbdb2346029d556d44/gta-v-online-quickest-and-easiest-way-to-complete-diamond-casino-heist.jpg",
         "blips": [],
-        "fill": "#7afff7",
+        "fill": "#90be6d",
         "stroke": "#000000"
     },
     {
@@ -68,7 +68,7 @@
         "description": "Business - Deludamol",
         "image": "https://i.goopics.net/53f8pv.png",
         "blips": [],
-        "fill": "#38f3ff",
+        "fill": "#90be6d",
         "stroke": "#000000"
     },
     {
@@ -88,7 +88,7 @@
         "description": "Business - Tequi-la-la",
         "image": "https://i.goopics.net/ha3vmo.png",
         "blips": [],
-        "fill": "#7afff7",
+        "fill": "#90be6d",
         "stroke": "#000000"
     },
     {
@@ -134,7 +134,7 @@
         "description": "Business - LS Fuel",
         "image": "https://i.goopics.net/6xu41q.png",
         "blips": [],
-        "fill": "#7afff7",
+        "fill": "#90be6d",
         "stroke": "#000000"
     },
     {
@@ -155,7 +155,7 @@
         "description": "Business - Liberty Walk",
         "image": null,
         "blips": [],
-        "fill": "#7afff7",
+        "fill": "#90be6d",
         "stroke": "#000000"
     },
     {
@@ -175,7 +175,7 @@
         "description": "Business - Black Wood",
         "image": "https://i.goopics.net/yat5vv.png",
         "blips": [],
-        "fill": "#f3722c",
+        "fill": "#90be6d",
         "stroke": "#000000"
     }
 ]
