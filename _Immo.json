@@ -25,7 +25,7 @@
         ],
         "radius": "0",
         "category": "2",
-        "description": "(Location) Hotel Rose",
+        "description": "(AirBnB) Hotel Rose",
         "image": "https://i.goopics.net/ehdem8.png",
         "blips": [],
         "fill": "#90be6d",
@@ -54,7 +54,7 @@
         ],
         "radius": "0",
         "category": "2",
-        "description": "(Location) Villa Roxwood",
+        "description": "(AirBnB) Villa Roxwood",
         "image": null,
         "blips": [],
         "fill": "#90be6d",
@@ -92,7 +92,7 @@
         ],
         "radius": "0",
         "category": "2",
-        "description": "(Location) Golf",
+        "description": "(AirBnB) Golf",
         "image": null,
         "blips": [],
         "fill": "#90be6d",
@@ -126,10 +126,91 @@
         ],
         "radius": "0",
         "category": "2",
-        "description": "(Location) Villa Playboy",
+        "description": "(AirBnB) Villa Playboy",
         "image": "https://i.goopics.net/ldqhn2.png",
         "blips": [],
         "fill": "#90be6d",
         "stroke": "#000000"
+    },
+    {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [401.59153538018205, 411.92079616511535],
+                [396.4041983696276, 413.789763176271],
+                [398.1587388290798, 418.7101048995175],
+                [403.42236020743655, 416.95556444006525],
+                [401.59153538018205, 411.92079616511535]
+            ]
+        ],
+        "radius": "0",
+        "category": "2",
+        "description": "(Location Seulement) Motel Rose",
+        "image": "https://prnt.sc/nR_rBFCs4NFT",
+        "fill": "#90be6d",
+        "stroke": "#000000",
+        "blips": [],
+        "id": "979340c6cf09c606bd14437a25"
+    },
+    {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [215.73752234906382, 370.37450866414963],
+                [222.80819049951705, 375.070698704376],
+                [224.97160388883484, 371.74642935005846],
+                [219.58945350565403, 367.36683639119565],
+                [215.73752234906382, 370.37450866414963]
+            ]
+        ],
+        "radius": "0",
+        "category": "2",
+        "description": "(Location Seulement) Motel Bahamas",
+        "image": "https://prnt.sc/ZIOln1hpNs6u",
+        "fill": "#90be6d",
+        "stroke": "#000000",
+        "blips": [],
+        "id": "084fc31db3b6a7a27d4e47e8a6"
+    },
+    {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [422.7203525772349, 265.3650263867321],
+                [424.773807976677, 264.5752358484852],
+                [424.06299649225474, 258.65180681163304],
+                [420.66689717779286, 260.07342978047757],
+                [420.74587623161756, 261.17913653402326],
+                [422.7203525772349, 265.3650263867321]
+            ]
+        ],
+        "radius": "0",
+        "category": "2",
+        "description": "(Location Seulement) Motel Vagos",
+        "image": "https://prnt.sc/DIcF1ASvOFIW",
+        "fill": "#90be6d",
+        "stroke": "#000000",
+        "blips": [],
+        "id": "bef5a2899bdfcf0e3cbc304b87"
+    },
+    {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [353.26214412718116, 1064.9544694103415],
+                [358.2143141475204, 1069.5425092821265],
+                [361.8556156330639, 1065.9012077965829],
+                [357.1947497315682, 1061.0946898356656],
+                [353.26214412718116, 1064.9544694103415]
+            ]
+        ],
+        "radius": "0",
+        "category": "2",
+        "description": "(Location Seulement) Motel Paleto",
+        "image": "https://prnt.sc/a5pNMGNy6wjR",
+        "fill": "#90be6d",
+        "stroke": "#000000",
+        "blips": [],
+        "id": "c80fa3b02ca9950267f23e597c"
     }
 ]
