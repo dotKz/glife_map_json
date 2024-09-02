@@ -16,10 +16,26 @@
         ],
         "radius": "0",
         "category": "7",
-        "description": "GAH - #1",
+        "description": "GAH - #AUTRE",
         "image": "https://i.goopics.net/i75s11.png",
         "blips": [],
-        "fill": "#f94144",
+        "fill": "#f81fff",
         "stroke": "#000000"
-    }
+    },
+
+    {"type":"Circle","coordinates":[[290.8062999930967,436.4627602957956]],"radius":"3.9829","category":"7","description":"GAH - #1","image":"https://i.ibb.co/5Gd7D2B/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"f99b2e77af1bfffb993b11856b"},
+    {"type":"Circle","coordinates":[[275.84774445494554,309.28454968519594]],"radius":"2.6605","category":"7","description":"GAH - #2","image":"https://i.ibb.co/88h3tkb/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"f21c0f29948b2f9bc70c1ddbcb"},
+    {"type":"Circle","coordinates":[[359.2700287229762,453.53557148465006]],"radius":"2.5678","category":"7","description":"GAH - #3","image":"https://i.ibb.co/DRh30CP/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"dcfc53f5a043e68d4d509959ec"},
+    {"type":"Circle","coordinates":[[410.5038695020187,462.6311356333253]],"radius":"3.0571","category":"7","description":"GAH - #4","image":"https://i.ibb.co/FmJnscD/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"6ef9a4240e779cadfb491dfd34"},
+    {"type":"Circle","coordinates":[[235.01490579884774,345.551462927141]],"radius":"3.1265","category":"7","description":"GAH - #5","image":"https://i.ibb.co/Jd4Z4LR/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"bab4ca9407c839754dc801ffbd"},
+    {"type":"Circle","coordinates":[[236.88330563912686,313.26485363306057]],"radius":"3.2038","category":"7","description":"GAH - #6","image":"https://i.ibb.co/vqhD8H9/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"17204733b17b193ecfa8d847d0"},
+    {"type":"Circle","coordinates":[[463.10517818685184,215.53312857887025]],"radius":"3.1374","category":"7","description":"GAH - #7","image":"https://i.ibb.co/6mxK33t/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"3aa4cc524dacc357ead57647d8"},
+    {"type":"Circle","coordinates":[[239.0695575576405,393.70811561026454]],"radius":"2.9605","category":"7","description":"GAH - #8","image":"https://i.ibb.co/VLH9NhH/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"be49c9294e9c1956c2dad1d42b"},
+    {"type":"Circle","coordinates":[[380.79232751980595,136.61779122751136]],"radius":"2.9062","category":"7","description":"GAH - #9","image":"https://i.ibb.co/Y853BHR/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"fd90bab92fc150e761795d2fb7"},
+    {"type":"Circle","coordinates":[[470.2067825402583,700.8673385142682]],"radius":"2.6827","category":"7","description":"GAH - #10","image":"https://i.ibb.co/s6S02Zn/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"5948356bbf70b65fe096298e91"},
+    {"type":"Circle","coordinates":[[217.84828426633,346.85126757727755]],"radius":"3.3935","category":"7","description":"GAH - #11","image":"https://i.ibb.co/SnyBFmb/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"ccc151d61e1da80729574ecb27"},
+    {"type":"Circle","coordinates":[[302.08956433003607,326.52145415899696]],"radius":"3.7825","category":"","description":"GAH - #12","image":"https://i.ibb.co/B214XNJ/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"b3beffaeb1c4857113d10ca3df"},
+    {"type":"Circle","coordinates":[[259.3015397081475,222.6096319869157]],"radius":"4.5661","category":"7","description":"GAH - #13","image":"https://i.ibb.co/Jcpjbfj/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"03aeeee8fca9fe3e3eddb75e62"},
+    {"type":"Circle","coordinates":[[392.521825115351,438.4726653007566]],"radius":"1.9634","category":"7","description":"GAH - #14","image":"https://i.ibb.co/rKjfTMS/image.png","fill":"#f81fff","stroke":"#000000","blips":[],"id":"46742036577f56e62029e9a10b"}
+
 ]
