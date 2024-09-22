@@ -177,5 +177,19 @@
         "blips": [],
         "fill": "#f9c74f",
         "stroke": "#000000"
+    },
+    {
+        "type":"Circle",
+        "coordinates":[
+            [357.1696666782673,626.6264376357167]
+        ],
+        "radius":"8.8858",
+        "category":"5",
+        "description":"Sprunk",
+        "image":"https://i.ibb.co/7k1p8h7/image.png",
+        "fill":"#f9c74f",
+        "stroke":"#000000",
+        "blips":[],
+        "id":"9d066d51dd0ac50862c5a6ccc4"
     }
 ]
