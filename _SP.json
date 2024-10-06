@@ -695,5 +695,6 @@
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
-    }
+    },
+    {"type":"Circle","coordinates":[[214.30149663303757,516.9609129874357]],"radius":"10.6635","category":"6","description":"Service Public - Gouvernement","image":null,"fill":"#0068FF","stroke":"#000000","blips":[],"id":"a17f7c8bc6ed4531075debc1ea"}
 ]
