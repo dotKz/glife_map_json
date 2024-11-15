@@ -408,5 +408,6 @@
         "fill": "#f3722c",
         "stroke": "#000000"
     },
-    {"type":"Circle","coordinates":[[302.5905174593726,328.3217170847872]],"radius":"2.8772","category":"3","description":"Resa #16","image":"https://i.ibb.co/hspyk4N/image.png","fill":"#f3722c","stroke":"#000000","blips":[],"id":"d65721811aebd8831bb9ded3c0"}
+    {"type":"Circle","coordinates":[[302.5905174593726,328.3217170847872]],"radius":"2.8772","category":"3","description":"Resa #16","image":"https://i.ibb.co/hspyk4N/image.png","fill":"#f3722c","stroke":"#000000","blips":[],"id":"d65721811aebd8831bb9ded3c0"},
+    {"type":"Circle","coordinates":[[500.8497782963578,364.5780381342522]],"radius":"5.9164","category":"3","description":"Resa #17","image":"https://i.ibb.co/Pxvj2d8/image.png","fill":"#f3722c","stroke":"#000000","blips":[],"id":"d8ef214fe6cbbe1927545a1c63"}
 ]
