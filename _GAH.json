@@ -97,18 +97,6 @@
     },
     {
         "type": "Circle",
-        "coordinates": [[239.0695575576405, 393.70811561026454]],
-        "radius": "2.9605",
-        "category": "7",
-        "description": "GAH - #8",
-        "image": "https://i.ibb.co/VLH9NhH/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "be49c9294e9c1956c2dad1d42b"
-    },
-    {
-        "type": "Circle",
         "coordinates": [[380.79232751980595, 136.61779122751136]],
         "radius": "2.9062",
         "category": "7",
