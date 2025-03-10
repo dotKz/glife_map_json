@@ -191,5 +191,20 @@
         "stroke":"#000000",
         "blips":[],
         "id":"9d066d51dd0ac50862c5a6ccc4"
+    },
+    {
+        "type":"Circle",
+        "coordinates":[
+            [491.30918937406466,602.7538720598874]
+        ],
+        "radius":"3.7337",
+        "category":"5",
+        "description":"Tabac",
+        "image":"https://prnt.sc/c4spNGUde89A",
+        "fill":"#f9c74f",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"oscurana1",
+        "id":"cb6b929cd2b988067cd97521d8"
     }
 ]
