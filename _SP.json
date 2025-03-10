@@ -649,26 +649,6 @@
         "stroke": "#000000"
     },
     {
-        "id": "66bd1f300a27fd4ee3c7b124",
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [298.0151927236494, 1111.021704066377],
-                [296.6402176336484, 1114.755289748148],
-                [300.9124616632942, 1116.278199697292],
-                [301.9927992340092, 1112.397235633345],
-                [298.0151927236494, 1111.021704066377]
-            ]
-        ],
-        "radius": "0",
-        "category": "6",
-        "description": "Service Public - LSSD",
-        "image": "https://i.goopics.net/qlyyt4.png",
-        "blips": [],
-        "fill": "#0068FF",
-        "stroke": "#000000"
-    },
-    {
         "id": "66bd02f566a07b6066f1fba5",
         "type": "Polygon",
         "coordinates": [
