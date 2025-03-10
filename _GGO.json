@@ -1161,7 +1161,8 @@
         "category":"4",
         "description":"",
         "image":"https://prnt.sc/c9YhopLwPGpE",
-        "fill":"#f94144","stroke":"#f94144",
+        "fill":"#f94144",
+        "stroke":"#000000",
         "blips":[],
         "world":"oscurana1",
         "id":"eae04143adf3b93d5f905fe5b3"
@@ -1182,7 +1183,8 @@
         "category":"4",
         "description":"",
         "image":"https://prnt.sc/cuzwHtCyjHxV",
-        "fill":"#f94144","stroke":"#f94144",
+        "fill":"#f94144",
+        "stroke":"#000000",
         "blips":[],"world":"oscurana1",
         "id":"75cb497d754b4413a25613b471"
     }
