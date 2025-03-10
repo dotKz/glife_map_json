@@ -1132,5 +1132,18 @@
         "blips": [],
         "world": "base",
         "id": "0581f2b944180314c9c0c1f777"
+    },
+    {
+        "type": "Circle",
+        "coordinates": [[574.7123802138303, 605.599462760878]],
+        "radius": "2.5838",
+        "category": "4",
+        "description": "GGO #63",
+        "image": "https://i.ibb.co/b5LCv4zV/image.png",
+        "fill": "#f94144",
+        "stroke": "#000000",
+        "blips": [],
+        "world": "oscurana1",
+        "id": "9765144435e57b972f10f3af0f"
     }
 ]
