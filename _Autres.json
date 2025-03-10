@@ -30,6 +30,5 @@
         "blips": [],
         "fill": "#f94144",
         "stroke": "#000000"
-    },
-    {"type":"Circle","coordinates":[[524.4003094948295,636.4037831862199]],"radius":"12.1715","category":"10","description":"","image":null,"fill":"#ffffff","stroke":"#000000","blips":[],"world":"oscurana1","name":"TEST","id":"b28b997a5c68f96427c0d9bd4d"}
+    }
 ]
