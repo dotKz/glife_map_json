@@ -1110,5 +1110,65 @@
         "stroke": "#000000",
         "blips": [],
         "id": "ddd58882f6d93c55ba8397904a"
+    },
+    {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [305.782713372668, 398.67375761463774],
+                [316.1378693991798, 398.67375761463774],
+                [316.1378693991798, 391.7718478731932],
+                [305.54736891752003, 391.6934170806768],
+                [305.782713372668, 398.67375761463774]
+            ]
+        ],
+        "radius": "0",
+        "category": "4",
+        "description": "GGO #59",
+        "image": "https://i.ibb.co/zW88xccH/image.png",
+        "fill": "#f94144",
+        "stroke": "#000000",
+        "blips": [],
+        "world": "base",
+        "id": "5a4f4f141af2396c25460f95ff"
+    },
+    {
+        "type": "Circle",
+        "coordinates": [[326.50503382398404, 494.02432991027837]],
+        "radius": "2.5167",
+        "category": "4",
+        "description": "GGO #60",
+        "image": "https://i.ibb.co/F4fgT409/image.png",
+        "fill": "#f94144",
+        "stroke": "#000000",
+        "blips": [],
+        "world": "base",
+        "id": "3cb93e2327b3730f12f3e94ae2"
+    },
+    {
+        "type": "Circle",
+        "coordinates": [[279.19312919789684, 441.8575590660016]],
+        "radius": "2.8563",
+        "category": "4",
+        "description": "GGO #61",
+        "image": "https://i.ibb.co/HTQfPL8m/image.png",
+        "fill": "#f94144",
+        "stroke": "#000000",
+        "blips": [],
+        "world": "base",
+        "id": "67af894c9e55c97e4458e7ce8a"
+    },
+    {
+        "type": "Circle",
+        "coordinates": [[248.95239782747996, 465.36305865016203]],
+        "radius": "3.4728",
+        "category": "4",
+        "description": "GGO #62",
+        "image": "https://i.ibb.co/C5TjBcjt/image.png",
+        "fill": "#f94144",
+        "stroke": "#000000",
+        "blips": [],
+        "world": "base",
+        "id": "0581f2b944180314c9c0c1f777"
     }
 ]
