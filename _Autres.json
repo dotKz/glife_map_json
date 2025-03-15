@@ -1,17 +1,5 @@
 [
     {
-        "type": "Circle",
-        "coordinates": [[336.4915829069164, 161.34910024742038]],
-        "radius": "3.747072613398018",
-        "category": "4",
-        "description": "GGO - #46 (A DELETE PLUS TARD)",
-        "image": null,
-        "fill": "#f94144",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "ab98f135a6556842ef48a383da"
-    },
-    {
         "id": "66bc86b4a7bdcfd734d7b609",
         "type": "Polygon",
         "coordinates": [
