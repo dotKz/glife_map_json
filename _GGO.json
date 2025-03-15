@@ -1300,5 +1300,19 @@
         "blips":[],
         "world":"oscurana1",
         "id":"b074061131743e49e131da58ba"
+    },
+    {
+        "type":"Circle",
+        "coordinates":[
+            [182.5017151970189,458.01932376351203]
+        ],
+        "radius":"3.6004",
+        "category":"4",
+        "description":"",
+        "image":"https://i.goopics.net/rm7vt3.jpg",
+        "fill":"#90be6d",
+        "stroke":"#000000",
+        "blips":[],
+        "id":"a76ab46c67d00c3cb94aedf519"
     }
 ]
