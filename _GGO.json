@@ -1310,9 +1310,24 @@
         "category":"4",
         "description":"",
         "image":"https://i.goopics.net/rm7vt3.jpg",
-        "fill":"#90be6d",
+        "fill":"#f94144",
         "stroke":"#000000",
         "blips":[],
         "id":"a76ab46c67d00c3cb94aedf519"
+    },
+    {
+        "type":"Circle",
+        "coordinates":[
+            [558.3658789198387,605.2760565603774]
+        ],
+        "radius":"2.8468",
+        "category":"4",
+        "description":"Résa GGO Oscurana",
+        "image":"https://i.goopics.net/ve3fv7.jpg",
+        "fill":"#f94144",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"oscurana1",
+        "id":"07af978dd76af80cf02d075afc"
     }
 ]
