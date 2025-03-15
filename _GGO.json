@@ -1138,7 +1138,7 @@
         "coordinates": [[574.7123802138303, 605.599462760878]],
         "radius": "2.5838",
         "category": "4",
-        "description": "GGO #63",
+        "description": "Résa GGO Oscurana",
         "image": "https://i.ibb.co/b5LCv4zV/image.png",
         "fill": "#f94144",
         "stroke": "#000000",
@@ -1159,7 +1159,7 @@
         ],
         "radius":"0",
         "category":"4",
-        "description":"",
+        "description":"Résa GGO Oscurana",
         "image":"https://i.goopics.net/os48bn.png",
         "fill":"#f94144",
         "stroke":"#000000",
@@ -1181,7 +1181,7 @@
         ],
         "radius":"0",
         "category":"4",
-        "description":"",
+        "description":"Résa GGO Oscurana",
         "image":"https://i.goopics.net/twgd41.png",
         "fill":"#f94144",
         "stroke":"#000000",
@@ -1201,12 +1201,104 @@
         ],
         "radius":"0",
         "category":"4",
-        "description":"",
+        "description":"QG Troodos (Sous-Faction Cayo)",
         "image":"https://i.goopics.net/vjeirp.png",
         "fill":"#f94144",
         "stroke":"#000000",
         "blips":[],
         "world":"oscurana1",
         "id":"f9edfb1f805e4e339422b295d7"
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [625.1830546511047,641.924463347072],
+                [623.1975081590557,632.5382435664765],
+                [630.9591899007019,630.3721928478776],
+                [633.3057448458508,639.938916855023],
+                [625.1830546511047,641.924463347072]
+            ]
+        ],
+        "radius":"0",
+        "category":"4",
+        "description":"QG Bolivien (Sous-Faction Cayo)",
+        "image":"https://i.goopics.net/40qryw.png",
+        "fill":"#f94144",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"oscurana1",
+        "id":"bb1cf26a914fad7f5c564d8426"
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [582.1437083347611,628.2746605512336],
+                [582.2327179205225,632.814149425065],
+                [579.028372833112,636.4635424412825],
+                [578.2272865612595,632.0130631532124],
+                [582.1437083347611,628.2746605512336]
+            ]
+        ],
+        "radius":"0",
+        "category":"4",
+        "description":"QG Paria (Sous-Faction Cayo)",
+        "image":"https://i.goopics.net/t7icqj.png",
+        "fill":"#ffffff",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"oscurana1",
+        "id":"1fd43e56e3f6a9f77f8496479d"
+    },
+    {
+        "type":"Circle",
+        "coordinates":[
+            [460.9894079540855,560.2029579146055]
+        ],
+        "radius":"2.7246",
+        "category":"4",
+        "description":"QG Cape Horn (Sous-Faction Cayo)",
+        "image":"https://i.goopics.net/mob3nw.png",
+        "fill":"#ffffff","stroke":"#000000",
+        "blips":[],
+        "world":"oscurana1",
+        "id":"05aedf2e1122eb52e7afd7fd81"
+    },
+    {
+        "type":"Circle",
+        "coordinates":[
+            [534.7496240844866,661.7227317840301]
+        ],
+        "radius":"2.9228",
+        "category":"4",
+        "description":"Résa GGO Oscurana",
+        "image":"https://i.goopics.net/orimfl.png",
+        "fill":"#ffffff",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"oscurana1",
+        "id":"0131ba3f8b2cde350833fdf782"
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [432.4939220238379,567.3171634080184],
+                [431.8179352032135,574.3023605544699],
+                [444.661684795076,577.0063078369673],
+                [445.2250071455963,569.4577883399954],
+                [432.4939220238379,567.3171634080184]
+            ]
+        ],
+        "radius":"0",
+        "category":"4",
+        "description":"Résa GGO Oscurana",
+        "image":"https://i.goopics.net/ds6n5x.png",
+        "fill":"#ffffff",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"oscurana1",
+        "id":"b074061131743e49e131da58ba"
     }
 ]
