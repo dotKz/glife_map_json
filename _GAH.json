@@ -84,18 +84,6 @@
     },
     {
         "type": "Circle",
-        "coordinates": [[470.2067825402583, 700.8673385142682]],
-        "radius": "2.6827",
-        "category": "7",
-        "description": "GAH - #10",
-        "image": "https://i.ibb.co/s6S02Zn/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "5948356bbf70b65fe096298e91"
-    },
-    {
-        "type": "Circle",
         "coordinates": [[217.84828426633, 346.85126757727755]],
         "radius": "3.3935",
         "category": "7",
@@ -117,30 +105,6 @@
         "stroke": "#000000",
         "blips": [],
         "id": "b3beffaeb1c4857113d10ca3df"
-    },
-    {
-        "type": "Circle",
-        "coordinates": [[392.521825115351, 438.4726653007566]],
-        "radius": "1.9634",
-        "category": "7",
-        "description": "GAH - #14",
-        "image": "https://i.ibb.co/rKjfTMS/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "46742036577f56e62029e9a10b"
-    },
-    {
-        "type": "Circle",
-        "coordinates": [[351.22611967965213, 1073.6279430763789]],
-        "radius": "2.1733",
-        "category": "7",
-        "description": "GAH - #15",
-        "image": "https://i.ibb.co/ck4RtpY/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "2fdeeac46549ce4393805ee39c"
     },
     {
         "type": "Polygon",
@@ -251,18 +215,6 @@
         "stroke": "#000000",
         "blips": [],
         "id": "d8e3e17eb37bba30b2f131c440"
-    },
-    {
-        "type": "Circle",
-        "coordinates": [[284.91130052663243, 483.39181817958325]],
-        "radius": "1.9851",
-        "category": "7",
-        "description": "GAH - #21",
-        "image": "https://i.imgur.com/GUgRT6Z.jpeg",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "fe8e8d739fa0cbbec5ac7eab6f"
     },
     {
         "type": "Polygon",
