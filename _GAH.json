@@ -22,19 +22,6 @@
         "fill": "#f81fff",
         "stroke": "#000000"
     },
-
-    {
-        "type": "Circle",
-        "coordinates": [[290.8062999930967, 436.4627602957956]],
-        "radius": "3.9829",
-        "category": "7",
-        "description": "GAH - #1",
-        "image": "https://i.ibb.co/5Gd7D2B/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "f99b2e77af1bfffb993b11856b"
-    },
     {
         "type": "Circle",
         "coordinates": [[275.84774445494554, 309.28454968519594]],
@@ -97,18 +84,6 @@
     },
     {
         "type": "Circle",
-        "coordinates": [[380.79232751980595, 136.61779122751136]],
-        "radius": "2.9062",
-        "category": "7",
-        "description": "GAH - #9",
-        "image": "https://i.ibb.co/Y853BHR/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "fd90bab92fc150e761795d2fb7"
-    },
-    {
-        "type": "Circle",
         "coordinates": [[470.2067825402583, 700.8673385142682]],
         "radius": "2.6827",
         "category": "7",
@@ -145,18 +120,6 @@
     },
     {
         "type": "Circle",
-        "coordinates": [[259.3015397081475, 222.6096319869157]],
-        "radius": "4.5661",
-        "category": "7",
-        "description": "GAH - #13",
-        "image": "https://i.ibb.co/Jcpjbfj/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "03aeeee8fca9fe3e3eddb75e62"
-    },
-    {
-        "type": "Circle",
         "coordinates": [[392.521825115351, 438.4726653007566]],
         "radius": "1.9634",
         "category": "7",
@@ -179,7 +142,6 @@
         "blips": [],
         "id": "2fdeeac46549ce4393805ee39c"
     },
-
     {
         "type": "Polygon",
         "coordinates": [
@@ -302,19 +264,6 @@
         "blips": [],
         "id": "fe8e8d739fa0cbbec5ac7eab6f"
     },
-    {
-        "type": "Circle",
-        "coordinates": [[356.61564049817184, 400.68138138519396]],
-        "radius": "3.1963",
-        "category": "7",
-        "description": "GAH - #22",
-        "image": "https://i.imgur.com/Y4J55CZ.jpeg",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "29840c571cd2cac05217b37154"
-    },
-
     {
         "type": "Polygon",
         "coordinates": [
