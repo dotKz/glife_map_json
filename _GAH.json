@@ -60,30 +60,6 @@
     },
     {
         "type": "Circle",
-        "coordinates": [[235.01490579884774, 345.551462927141]],
-        "radius": "3.1265",
-        "category": "7",
-        "description": "GAH - #5",
-        "image": "https://i.ibb.co/Jd4Z4LR/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "bab4ca9407c839754dc801ffbd"
-    },
-    {
-        "type": "Circle",
-        "coordinates": [[236.88330563912686, 313.26485363306057]],
-        "radius": "3.2038",
-        "category": "7",
-        "description": "GAH - #6",
-        "image": "https://i.ibb.co/vqhD8H9/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "17204733b17b193ecfa8d847d0"
-    },
-    {
-        "type": "Circle",
         "coordinates": [[217.84828426633, 346.85126757727755]],
         "radius": "3.3935",
         "category": "7",
