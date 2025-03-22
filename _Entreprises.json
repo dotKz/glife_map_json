@@ -227,5 +227,26 @@
         "blips":[],
         "world":"base",
         "id":"137f6d2f7efda7b9690a7107de"
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [429.7656521118757,710.2976091573147],
+                [429.50804997595856,714.2475085747109],
+                [432.3416734710471,714.2475085747109],
+                [432.255806092408,710.1258744000367],
+                [429.7656521118757,710.2976091573147]
+            ]
+        ],
+        "radius":"0",
+        "category":"5",
+        "description":"Résa Entreprise | Metalux",
+        "image":"https://i.goopics.net/1jfug4.png",
+        "fill":"#ffffff",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"3731912ce2998db8f78583efb6"
     }
 ]
