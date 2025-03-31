@@ -248,5 +248,23 @@
         "blips":[],
         "world":"base",
         "id":"3731912ce2998db8f78583efb6"
+    },
+    {
+        "type":"Circle",
+        "coordinates":
+            [
+                [467.68790440637366,619.5469279932271]
+            ],
+        "radius":"2.6134",
+        "category":"5",
+        "description":
+        "Oscurana Textile",
+        "image":"https://i.imgur.com/GSOQoFl.jpeg",
+        "fill":"#f9c74f",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"oscurana1",
+        "id":"889c4f5caa111ee97c6837701f"
     }
 ]
+
