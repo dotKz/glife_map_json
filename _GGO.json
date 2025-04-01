@@ -1000,5 +1000,25 @@
         "blips":[],
         "world":"oscurana1",
         "id":"07af978dd76af80cf02d075afc"
-    }
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [440.6871190271616,612.6855625831996],
+                [443.36404566339934,613.2917376505089],
+                [444.27319055872533,610.7154936144444],
+                [441.44473977326663,609.9577747803078],
+                [440.6871190271616,612.6855625831996]
+            ]
+        ],
+        "radius":"0",
+        "category":"4",
+        "description":"QG - Fuerza Revolucionaria Venezuela (Sous-Faction Cayo)",
+        "image":"https://i.imgur.com/UgnWbOs.png",
+        "fill":"#f94144",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"oscurana1",
+        "id":"bbd5fc718e52fb68e7efa2d200"}    
 ]
