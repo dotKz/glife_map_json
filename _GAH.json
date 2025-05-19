@@ -46,17 +46,25 @@
         "blips": [],
         "id": "dcfc53f5a043e68d4d509959ec"
     },
-    {
-        "type": "Circle",
-        "coordinates": [[410.5038695020187, 462.6311356333253]],
-        "radius": "3.0571",
-        "category": "7",
-        "description": "GAH - #4",
-        "image": "https://i.ibb.co/FmJnscD/image.png",
-        "fill": "#f81fff",
-        "stroke": "#000000",
-        "blips": [],
-        "id": "6ef9a4240e779cadfb491dfd34"
+{
+    "type":"Polygon",
+    "coordinates":[
+    [
+        [409.55234980794705,464.99899019088144],
+        [422.0306868757081,460.5742797166918],
+        [420.32909545737704,455.1284822099969],
+        [407.17012182228353,459.21283034001806],
+        [409.55234980794705,464.99899019088144]]
+    ],
+        "radius":"0",
+        "category":"7",
+        "description":"GAH - #4",
+        "image":"https://i.imgur.com/cnegZen.png",
+        "fill":"#f81fff",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"2c0d66eec0f0b63d6c338c84dd"
     },
     {
         "type": "Circle",
