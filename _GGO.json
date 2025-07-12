@@ -896,7 +896,7 @@
     "stroke":"#000000",
     "blips":[],
     "world":"base",
-    "id":"6c04bb188395c25065879a71fb"}   
+    "id":"6c04bb188395c25065879a71fb"
     },
 {
     "type":"Polygon",
@@ -918,6 +918,6 @@
     "stroke":"#000000",
     "blips":[],
     "world":"base",
-    "id":"032bcab3da0df968a8401f7648"}
-  }
-]
+    "id":"032bcab3da0df968a8401f7648"
+    }    
+]   
