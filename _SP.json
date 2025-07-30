@@ -654,5 +654,39 @@
         "fill": "#0068FF",
         "stroke": "#000000"
     },
-    {"type":"Circle","coordinates":[[214.30149663303757,516.9609129874357]],"radius":"10.6635","category":"6","description":"Service Public - Gouvernement","image":null,"fill":"#0068FF","stroke":"#000000","blips":[],"id":"a17f7c8bc6ed4531075debc1ea"}
+    {
+        "type":"Circle",
+        "coordinates":[
+            [214.30149663303757,516.9609129874357]
+            ],
+            "radius":"10.6635",
+            "category":"6",
+            "description":"Service Public - Gouvernement",
+            "image":null,
+            "fill":"#0068FF",
+            "stroke":"#000000",
+            "blips":[],
+            "id":"a17f7c8bc6ed4531075debc1ea"},
+
+    {
+        "type":"Polygon",
+        "coordinates":[
+        [
+            [333.246506723896,551.0671727362387],
+            [329.8791420652975,538.045010314567],
+            [314.72600110160437,541.7495910034909],
+            [318.87908418054246,554.3227133416567],
+            [333.246506723896,551.0671727362387]
+            ]
+            ],
+            "radius":"0",
+            "category":"6",
+            "description":"Observatoire",
+            "image":"https://i.imgur.com/8mOxDKf.png",
+            "fill":"#577590",
+            "stroke":"#577590",
+            "blips":[],
+            "world":"base",
+            "id":"53d5a1c35a0efa7997f4049829"
+        }
 ]
