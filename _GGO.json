@@ -882,7 +882,7 @@
         "world":"oscurana1",
         "id":"bbd5fc718e52fb68e7efa2d200"
     },
-{
+    {
     "type":"Circle",
     "coordinates":
     [
@@ -898,7 +898,7 @@
     "world":"base",
     "id":"6c04bb188395c25065879a71fb"
     },
-{
+    {
     "type":"Polygon",
     "coordinates":[
         [
@@ -919,5 +919,27 @@
     "blips":[],
     "world":"base",
     "id":"032bcab3da0df968a8401f7648"
-    }    
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [558.4400606108377,900.6129689752667],
+                [566.0643233648742,896.6128379032666],
+                [564.0645167408646,894.4877682712666],
+                [558.0650968688359,892.6127068312666],
+                [557.3151693848323,894.8627805592666],
+                [558.4400606108377,900.6129689752667]
+            ]
+        ],
+        "radius":"0",
+        "category":"4",
+        "description":"Résa GGO",
+        "image":"https://i.imgur.com/RMCyucX.jpeg",
+        "fill":"#f94144",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"b16e0a6c6f642d9429d13e4f3e"
+    }
 ]   
