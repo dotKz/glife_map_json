@@ -4,12 +4,12 @@ Ces couleurs sont utilisées pour distinguer les principaux groupes opérationne
 
 | Entité | Code Hexadécimal | Aperçu |
 | :--- | :--- | :--- |
-| **Entreprise** | `#f9c74f` | <div style="width:50px; height:20px; background-color:#f9c74f; border:1px solid #333;"></div> |
-| **GAH** | `#f81fff` | <div style="width:50px; height:20px; background-color:#f81fff; border:1px solid #333;"></div> |
-| **GGO** | `#f94144` | <div style="width:50px; height:20px; background-color:#f94144; border:1px solid #333;"></div> |
-| **Immo** | `#90be6d` | <div style="width:50px; height:20px; background-color:#90be6d; border:1px solid #333;"></div> |
-| **SP** | `#0068FF` | <div style="width:50px; height:20px; background-color:#0068FF; border:1px solid #333;"></div> |
-| **Cayo Perico (+équivalence Immo)** | `#90be6d` | <div style="width:50px; height:20px; background-color:#90be6d; border:1px solid #333;"></div> |
+| **Entreprise** | `#f9c74f` | ![#f9c74f](https://placehold.co/15x15/f9c74f/f9c74f.png) |
+| **GAH** | `#f81fff` | ![#f81fff](https://placehold.co/15x15/f81fff/f81fff.png) |
+| **GGO** | `#f94144` | ![#f94144](https://placehold.co/15x15/f94144/f94144.png) |
+| **Immo** | `#90be6d` | ![#90be6d](https://placehold.co/15x15/90be6d/90be6d.png) |
+| **SP** | `#0068FF` | ![#0068FF](https://placehold.co/15x15/0068FF/0068FF.png) |
+| **Cayo Perico (+équivalence)** | `#90be6d` | ![#90be6d](https://placehold.co/15x15/90be6d/90be6d.png) |
 
 ---
 
@@ -19,9 +19,9 @@ Ces codes distinguent les différentes zones d'opération ou les subdivisions g�
 
 | Zone | Code Hexadécimal | Aperçu |
 | :--- | :--- | :--- |
-| **Zone 1** | `#f94144` | <div style="width:50px; height:20px; background-color:#f94144; border:1px solid #333;"></div> |
-| **Zone 2** | `#577590` | <div style="width:50px; height:20px; background-color:#577590; border:1px solid #333;"></div> |
-| **Zone 3** | `#f9c74f` | <div style="width:50px; height:20px; background-color:#f9c74f; border:1px solid #333;"></div> |
+| **Zone 1** | `#f94144` | ![#f94144](https://placehold.co/15x15/f94144/f94144.png) |
+| **Zone 2** | `#577590` | ![#577590](https://placehold.co/15x15/577590/577590.png) |
+| **Zone 3** | `#f9c74f` | ![#f9c74f](https://placehold.co/15x15/f9c74f/f9c74f.png) |
 
 ---
 
