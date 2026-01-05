@@ -368,7 +368,7 @@
         "radius": "0",
         "category": "7",
         "description": "GAH - #19",
-        "image": "https://img001.prntscr.com/file/img001/2c5rXq6iR6WuEaHJwaXcWw.png",
+        "image": "https://i.imgur.com/ZSxjEqg.jpeg",
         "fill": "#f94144",
         "stroke": "#000000",
         "blips": [],
@@ -390,7 +390,7 @@
         "radius": "0",
         "category": "7",
         "description": "GAH - #20",
-        "image": "https://img001.prntscr.com/file/img001/Ml3jSRCdR0Oxxcw7SXBBWw.png",
+        "image": "https://i.imgur.com/IgF3lZc.jpeg",
         "fill": "#f94144",
         "stroke": "#000000",
         "blips": [],
@@ -411,7 +411,7 @@
         "radius": "0",
         "category": "7",
         "description": "GAH - #21",
-        "image": "https://img001.prntscr.com/file/img001/8XpGBy3kSaSh0CYtrvzg4w.png",
+        "image": "https://i.imgur.com/QnSR0mV.jpeg",
         "fill": "#f94144",
         "stroke": "#000000",
         "blips": [],
@@ -426,8 +426,8 @@
                 [472.2252748468187,699.1389970053428],
                 [468.9449863129979,699.2171092250547],
                 [468.9449863129979,702.5759346726671]
-                ]
-            ],
+            ]
+        ],
         "radius":"0",
         "category":"7",
         "description":"GAH - #22",
@@ -437,5 +437,50 @@
         "blips":[],
         "world":"base",
         "id":"09adbbbbd331efc15041a44bc2"
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [399.76993361736885,436.7231076519883],
+                [404.88483962316786,434.93265877321204],
+                [408.9767644278071,441.19922984892895],
+                [402.4552592704133,444.268570783974],
+                [399.76993361736885,436.7231076519883]
+            ]
+        ],
+        "radius":"0",
+        "category":"7",
+        "description":"GAH - #23 (Tempo)",
+        "image":"https://i.imgur.com/E7SZUOw.jpeg",
+        "fill":"#f81fff",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"50919f2676ed4b571da2b3c805"
+    },
+    {
+        "type":
+        "Polygon","coordinates":[
+            [
+                [408.18714980935283,242.9680786448391],
+                [418.6170382249217,247.39345266326384],
+                [423.1471917791587,246.02369403851333],
+                [423.9900110450633,244.23247122153188],
+                [423.9900110450633,242.3358823564927],
+                [413.56012262949434,236.96221390554837],
+                [408.18714980935283,241.59832002008858],
+                [408.18714980935283,242.9680786448391]
+            ]
+        ],
+        "radius":"0",
+        "category":"7",
+        "description":"GAH - #24 (Tempo)",
+        "image":"https://i.imgur.com/aX1xDtp.jpeg",
+        "fill":"#f81fff",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"0b1a226ecba3d23e2a15c8338a"
     }
 ]
