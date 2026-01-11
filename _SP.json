@@ -648,8 +648,8 @@
         ],
         "radius": "0",
         "category": "6",
-        "description": "Service Public - HLS",
-        "image": null,
+        "description": "Service Public - SIA",
+        "image": "https://i.imgur.com/rpDLuCg.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"

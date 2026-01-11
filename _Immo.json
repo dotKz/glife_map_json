@@ -64,7 +64,7 @@
         "radius": "0",
         "category": "2",
         "description": "(AirBnB) Golf",
-        "image": null,
+        "image": "https://i.imgur.com/gsVFcLq.jpeg",
         "blips": [],
         "fill": "#90be6d",
         "stroke": "#000000"
