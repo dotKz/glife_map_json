@@ -137,7 +137,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - LSCOFD",
-        "image": "https://i.imgur.com/b4ahWVe.jpeg",
+        "image": "https://i.imgur.com/yPdFWcK.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -160,7 +160,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - LSCOFD",
-        "image": null,
+        "image": "https://i.imgur.com/eWCnmST.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -525,7 +525,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - Humane Labs",
-        "image": "66bd0b4b98cda03f3a7aa1f4",
+        "image": "https://i.imgur.com/cmEQmsf.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -728,7 +728,7 @@
             "radius":"0",
             "category":"6",
             "description":"Service Public - SAMS",
-            "image":"Service Public - SAMS",
+            "image":"https://i.imgur.com/EiGuOS8.jpeg",
             "fill":"#0068FF",
             "stroke":"#000000",
             "blips":[],
