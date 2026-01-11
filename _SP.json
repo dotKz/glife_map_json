@@ -13,8 +13,8 @@
         ],
         "radius": "0",
         "category": "6",
-        "description": "Service Public - LSPD",
-        "image": null,
+        "description": "Service Public - SIA",
+        "image": "https://i.imgur.com/dIRZzGI.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -39,7 +39,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - LSPD",
-        "image": null,
+        "image": "https://i.imgur.com/KlaP99j.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -57,9 +57,9 @@
             ]
         ],
         "radius": "0",
-        "category": "3",
+        "category": "6",
         "description": "Service Public - LSPD",
-        "image": null,
+        "image": "https://i.imgur.com/LmczKS8.jpeg",
         "blips": [],
         "fill": "#000000",
         "stroke": "#000000"
@@ -87,7 +87,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - LSPD",
-        "image": null,
+        "image": "https://i.imgur.com/UrWeoqY.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -109,8 +109,8 @@
         ],
         "radius": "0",
         "category": "6",
-        "description": "Service Public - LSPD",
-        "image": null,
+        "description": "Service Public - SAHP",
+        "image": "https://i.imgur.com/Goz4RP2.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -137,7 +137,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - LSCOFD",
-        "image": null,
+        "image": "https://i.imgur.com/b4ahWVe.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -186,7 +186,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - SAMS",
-        "image": null,
+        "image": "https://i.imgur.com/ldA3ogH.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -209,7 +209,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - SAMS",
-        "image": null,
+        "image": "https://i.imgur.com/xIBuiUI.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -231,7 +231,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - SAMS",
-        "image": null,
+        "image": "https://i.imgur.com/Gx4iUCM.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -256,7 +256,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - SAMS",
-        "image": null,
+        "image": "https://i.imgur.com/wgQ6slE.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -291,8 +291,8 @@
         ],
         "radius": "0",
         "category": "6",
-        "description": "Service Public - LSPD",
-        "image": null,
+        "description": "Service Public - Gouv / DOJ",
+        "image": "https://i.imgur.com/z8395g0.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -320,7 +320,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - G6",
-        "image": null,
+        "image": "https://i.imgur.com/FpFewJA.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -364,7 +364,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - Bureau de vote",
-        "image": null,
+        "image": "https://i.imgur.com/79TnYyZ.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -384,7 +384,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - SAMS",
-        "image": null,
+        "image": "https://i.imgur.com/iDkoX5I.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -404,7 +404,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - LSCOFD",
-        "image": null,
+        "image": "https://i.imgur.com/1ERkvim.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -427,8 +427,8 @@
         ],
         "radius": "0",
         "category": "6",
-        "description": "Service Public - LSSD",
-        "image": null,
+        "description": "Service Public - SAHP",
+        "image": "https://i.imgur.com/8Ga6kAR.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -450,8 +450,8 @@
         ],
         "radius": "0",
         "category": "6",
-        "description": "Service Public - LSSD",
-        "image": null,
+        "description": "Service Public - FAN",
+        "image": "https://i.imgur.com/pp3N2IR.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -471,7 +471,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - LSCOFD",
-        "image": null,
+        "image": "https://i.imgur.com/0qzNOQt.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -491,7 +491,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - SAMS",
-        "image": null,
+        "image": "https://i.imgur.com/wJdCwDr.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -525,7 +525,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - Humane Labs",
-        "image": null,
+        "image": "66bd0b4b98cda03f3a7aa1f4",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -545,7 +545,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - Mairie LS",
-        "image": null,
+        "image": "https://i.imgur.com/IPGKgWj.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -570,7 +570,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - Bureau du gouverneur",
-        "image": null,
+        "image": "https://i.imgur.com/QwvqPtL.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -592,7 +592,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - Bureau des avocats",
-        "image": null,
+        "image": "https://i.imgur.com/5MJQcS3.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -621,7 +621,7 @@
         "radius": "0",
         "category": "6",
         "description": "Service Public - Mairie BC",
-        "image": null,
+        "image": "https://i.imgur.com/qMfCljN.jpeg",
         "blips": [],
         "fill": "#0068FF",
         "stroke": "#000000"
@@ -662,7 +662,7 @@
             "radius":"10.6635",
             "category":"6",
             "description":"Service Public - Gouvernement",
-            "image":null,
+            "image":"https://i.imgur.com/OS1cMKz.jpeg",
             "fill":"#0068FF",
             "stroke":"#000000",
             "blips":[],
@@ -681,12 +681,58 @@
             ],
             "radius":"0",
             "category":"6",
-            "description":"Observatoire",
+            "description":"Service Public - Observatoire",
             "image":"https://i.imgur.com/8mOxDKf.png",
             "fill":"#577590",
             "stroke":"#577590",
             "blips":[],
             "world":"base",
             "id":"53d5a1c35a0efa7997f4049829"
+        },
+        {
+            "type":"Polygon",
+            "coordinates":[
+                [
+                    [336.10593670082375,1039.9882605440694],
+                    [333.328382642401,1042.6632885170193],
+                    [338.574873641644,1047.138816087147],
+                    [341.1466829549984,1045.0811022618009],
+                    [336.10593670082375,1039.9882605440694]
+                    ]
+                ],
+                "radius":"0",
+                "category":"6",
+                "description":"Service Public - NMC",
+                "image":"https://i.imgur.com/w571Ih4.jpeg",
+                "fill":"#0068FF",
+                "stroke":"#000000",
+                "blips":[],
+                "world":"base",
+                "id":"263aed9682ecf13f90de35ae63"
+        },
+        {
+            "type":"Polygon",
+            "coordinates":[
+                [
+                    [371.3156494768918,407.1032669025968],
+                    [383.82155632354113,402.4530328889217],
+                    [379.49258856893175,390.26621271515256],
+                    [375.6446172315012,390.26621271515256],
+                    [369.5519959472361,388.60923277924536],
+                    [364.4213674973287,388.12817408817557],
+                    [367.14701386134203,396.5199756990604],
+                    [368.37622692746567,400.26154329627025],
+                    [371.3156494768918,407.1032669025968]
+                ]
+            ],
+            "radius":"0",
+            "category":"6",
+            "description":"Service Public - SAMS",
+            "image":"Service Public - SAMS",
+            "fill":"#0068FF",
+            "stroke":"#000000",
+            "blips":[],
+            "world":"base",
+            "id":"1d0893d552c08fa4de6472c1e4"
         }
 ]
