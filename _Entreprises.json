@@ -86,7 +86,7 @@
         ],
         "radius": "0",
         "category": "5",
-        "description": "Business - LS Fuel",
+        "description": "Business - Globe Oil",
         "image": "https://i.goopics.net/6xu41q.png",
         "blips": [],
         "fill": "#f9c74f",
@@ -226,5 +226,26 @@
         "blips":[],
         "world":"base",
         "id":"935a7871b5d698f8bdd5873992"
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [392.36999448317005,708.8331159352778],
+                [383.0265378995135,708.1063085589486],
+                [381.88455987262216,715.7897008229996],
+                [391.22801645627874,716.308848948949],
+                [392.36999448317005,708.8331159352778]
+            ]
+        ],
+        "radius":"0",
+        "category":"5",
+        "description":"Business - Banks Steel Inc Foundry",
+        "image":"https://imgg.fr/r/QiZhZJ8g.png",
+        "fill":"#f9c74f",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"9bd7857060355022d878bbe093"
     }
 ]
