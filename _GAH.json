@@ -497,7 +497,7 @@
         ],
         "radius":"0",
         "category":"7",
-        "description":"GAH - #26 (Tempo)",
+        "description":"GAH - #25 (Tempo)",
         "image":"https://i.imgur.com/ipv3J2N.jpeg",
         "fill":"#ffffff",
         "stroke":"#000000",
@@ -520,7 +520,7 @@
         ],
         "radius":"0",
         "category":"7",
-        "description":"GAH - #28 (Tempo)",
+        "description":"GAH - #26 (Tempo)",
         "image":"https://i.imgur.com/uKM1FCA.jpeg",
         "fill":"#ffffff",
         "stroke":"#000000",
@@ -541,12 +541,32 @@
         ],
         "radius":"0",
         "category":"7",
-        "description":"GAH - #29 (Tempo)",
+        "description":"GAH - #27 (Tempo)",
         "image":"https://i.imgur.com/r2hIF0c.jpeg",
         "fill":"#ffffff",
         "stroke":"#000000",
         "blips":[],
         "world":"base",
         "id":"bdb5d917b04dd8b025fcb193b6"
-    }
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [331.3554458124195,459.39619932647247],
+                [339.00890605351753,461.69253466343747],
+                [339.35679060993107,450.48920165582024],
+                [331.2858689011368,450.2804438979143],
+                [331.3554458124195,459.39619932647247]
+            ]
+        ],
+        "radius":"0",
+        "category":"7",
+        "description":"GAH - #28 (Tempo)",
+        "image":"https://imgg.fr/r/IiBvjZFs.png",
+        "fill":"#f81fff",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"e553b4be5e570aecfb8523b3ea"}
 ]
