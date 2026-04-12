@@ -697,10 +697,31 @@
                 "category":"6",
                 "description":"Service Public - G6",
                 "image":"https://imgg.fr/r/0YkKUrIU.png",
-                "fill":"#ffffff",
+                "fill":"#0068FF",
                 "stroke":"#000000",
                 "blips":[],
                 "world":"base",
                 "id":"ddf5a01b65ff41c630b0df45d5"
-            }  
+            },
+            {
+                "type":"Polygon",
+                "coordinates":[
+                    [
+                        [258.4518617453154,291.6918613968179],
+                        [262.3282715833452,286.4551373692079],
+                        [257.98900683928207,283.21473355101824],
+                        [254.2572391593877,288.625050640317],
+                        [258.4518617453154,291.6918613968179]
+                        ]
+                    ],
+                    "radius":"0",
+                    "category":"5",
+                    "description":"Gouvernement",
+                    "image":"https://imgg.fr/r/IGu7bSLf.png",
+                    "fill":"#0068FF",
+                    "stroke":"#000000",
+                    "blips":[],
+                    "world":"base",
+                    "id":"1611167669ee76326af64a2dbd"
+                }
 ]
