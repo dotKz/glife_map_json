@@ -9,6 +9,7 @@ Ces couleurs sont utilisées pour distinguer les principaux groupes opérationne
 | **GGO** | `#f94144` | ![#f94144](https://placehold.co/15x15/f94144/f94144.png) |
 | **Immo** | `#90be6d` | ![#90be6d](https://placehold.co/15x15/90be6d/90be6d.png) |
 | **SP** | `#0068FF` | ![#0068FF](https://placehold.co/15x15/0068FF/0068FF.png) |
+| **Staff** | `#f3722c` | ![#f3722c](https://placehold.co/15x15/f3722c/f3722c.png) |
 
 ---
 
