@@ -129,5 +129,35 @@
         "blips":[],
         "world":"base",
         "id":"4b7074af71dc7caebcc37a130a"
+    },
+    {
+        "type":"Circle",
+        "coordinates":[
+            [203.45278354144563,482.96154652968016]
+        ],
+        "radius":"4.1674",
+        "category":"3",
+        "description":"Manoir #1",
+        "image":"https://imgg.fr/r/Eofi9NpE.png",
+        "fill":"#f3722c",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"8a33797ccb87989c6a3275ce35"
+    },
+    {
+        "type":"Circle",
+        "coordinates":[
+            [419.9036457926285,513.0797116857333]
+        ],
+        "radius":"4.1366",
+        "category":"3",
+        "description":"Manoir #2",
+        "image":"https://imgg.fr/r/5Ek8Ezft.png",
+        "fill":"#f3722c",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"c19696f437e731da041e9d4a11"
     }
 ]
