@@ -619,10 +619,31 @@
         "category":"7",
         "description":"GAH - #32 (Tempo)",
         "image":"https://imgg.fr/r/VaHOMZwE.png",
-        "fill":"#ffffff",
+        "fill":"#f81fff",
         "stroke":"#000000",
         "blips":[],
         "world":"base",
         "id":"c78a386d247de93c76e3f9207b"
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [258.46964151965756,291.7363595768266],
+                [262.3509749466893,286.4812326237016],
+                [258.06686163572033,283.2402658268266],
+                [254.2953772679442,288.5869455143266],
+                [258.46964151965756,291.7363595768266]
+            ]
+        ],
+        "radius":"0",
+        "category":"7",
+        "description":"GAH - #33 (Tempo)",
+        "image":"https://imgg.fr/r/3QoO2PJa.png",
+        "fill":"#f81fff",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"894ee13d55d4b964fd797bc7f2"
     }
 ]
