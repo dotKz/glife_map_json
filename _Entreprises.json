@@ -330,7 +330,7 @@
         "radius":"0",
         "category":"5",
         "description":"Business - Hayes",
-        "image":"https://imgg.fr/r/MQZ3emGD.png",
+        "image":"https://imgg.fr/r/wSgZxxcq.png",
         "fill":"#f9c74f",
         "stroke":"#000000",
         "blips":[],
@@ -355,7 +355,7 @@
         "category":"5",
         "description":"Business - Auto Exotic",
         "image":"https://imgg.fr/r/KQaeibiJ.png",
-        "fill":"#ffffff",
+        "fill":"#f9c74f",
         "stroke":"#000000",
         "blips":[],
         "world":"base",
@@ -376,10 +376,33 @@
         "category":"5",
         "description":"Business - Cozy Shop",
         "image":"https://imgg.fr/r/8fzKivp8.png",
-        "fill":"#ffffff",
+        "fill":"#f9c74f",
         "stroke":"#000000",
         "blips":[],
         "world":"base",
         "id":"0aeb6b268d878313fceabcc06a"
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [374.88073112067843,468.15340434634646],
+                [373.2722220082189,467.20087432834083],
+                [371.70604208292934,463.3484195888513],
+                [379.98139817466193,460.15215219509895],
+                [381.90737619089634,465.7614956344656],
+                [380.4258546399468,466.0155036392671],
+                [374.88073112067843,468.15340434634646]
+            ]
+        ],
+        "radius":"0",
+        "category":"5",
+        "description":"Business - Vinewood Motors",
+        "image":"https://imgg.fr/r/nVH9zpdw.png",
+        "fill":"#f9c74f",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"86e39bf37ad0bac42cc23aca0c"
     }
 ]
