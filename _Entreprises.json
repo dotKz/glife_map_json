@@ -404,5 +404,26 @@
         "blips":[],
         "world":"base",
         "id":"86e39bf37ad0bac42cc23aca0c"
+    },
+    {
+        "type":"Polygon",
+        "coordinates":[
+            [
+                [145.70031558664903,401.3503973414509],
+                [154.352706781534,400.291614769287],
+                [150.42350325068037,395.0587855183998],
+                [144.1734230228458,399.762223483205],
+                [145.70031558664903,401.3503973414509]
+            ]
+        ],
+        "radius":"0",
+        "category":"5",
+        "description":"Business - Paddock Bar",
+        "image":"https://imgg.fr/r/Os4X9UaM.png",
+        "fill":"#f9c74f",
+        "stroke":"#000000",
+        "blips":[],
+        "world":"base",
+        "id":"fd8fd3e90f4d8334d6d5a8fe07"
     }
 ]
